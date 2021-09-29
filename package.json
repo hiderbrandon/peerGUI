@@ -1,0 +1,27 @@
+{
+  "name": "peergui",
+  "version": "1.0.0",
+  "description": "GUI for a basic p2p desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ." ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiderbrandon/peerGUI.git"
+  },
+  "keywords": [
+    "p2p",
+    "GUI"
+  ],
+  "author": "Hider Brandon Vargas Cordoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiderbrandon/peerGUI/issues"
+  },
+  "homepage": "https://github.com/hiderbrandon/peerGUI#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
